@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-githzerai-enlightened
+  x-cortex-tag: monster-githzerai-enlightened
+x-cortex-custom-data:
+  alignment: lawful-neutral
+  challenge_rating: 12
+  legendary: true
+  source: dnd-5e
+  type: humanoid
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-githzerai-enlightened
+x-cortex-type: monster
